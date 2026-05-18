@@ -77,13 +77,13 @@
 |---|---|
 | `00_data_preperation.ipynb` | EDA и обогащение structural + geo + macro данных, подготовка витрин для M1, M2.1, M2.2, M2.3 |
 | `00_text_preperation.ipynb` | EDA и предобработка текстовых данных, подготовка витрины для M3 |
-| `00_full_text_preperation.ipynb` | Предобработка text данных для M3 |
+| `00_full_text_preperation.ipynb` | EDA и предобработка text данных для M3 |
 | `01_model_M1_linear.ipynb` | M1: OLS и Ridge регрессия, structure признаки |
 | `02_1_M2_geo_catboost.ipynb` | M2.1: CatBoost, structure + geo признаки |
 | `02_2_M2_macro_catboost.ipynb` | M2.2: CatBoost, structure + macro признаки |
 | `02_3_M2_geo_macro_catboost.ipynb` | M2.3: CatBoost, structure + geo + macro признаки |
 | `03_M3_text_ruBERT.ipynb` | M3: ruBERT, text признаки |
-| `04_M4_full.ipynb` | Мультимодальная нейросетевая архитектура, structure + geo + macro + text |
+| `04_M4_full.ipynb` | M4: Мультимодальная нейросетевая архитектура, structure + geo + macro + text |
 | `10_metrics.ipynb` | Сравнение метрик моделей |
 
 ---
